@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-color: #fff;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    min-height: 100vh;
+}
+.logo{
+    margin-top: 20px;
+
+}
+.signin-container{
+    max-width: 350px;
+    border: 1px solid #d2d2d2;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px 26px;
+    border-radius: 8px;
+    text-align: left;
+}
+.signin-title{
+    font-size: 28px;
+    font-weight: 400;
+}
+.input-label{
+    margin-top: 20px;
+}
+.signin-container input{
+    width: 100%;
+    height: 32px;
+    margin-top: 5px;
+    padding: 3px 7px;
+    border-radius: 3px;
+    border: 1px solid;
+    font-size: 12px;
+}
+.signin-container input:focus{
+   outline: 3px solid #c2f2ff;
+}
+.signin-container button{
+    width: 100%;
+    height: 32px;
+    margin: 15px 0;
+    background-color: #ffd814;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.signin-container button:hover{
+    background-color: #ebc712;
+}
+.signin-container p span{
+   color: #0066c0;
+}
+.signin-help{
+    margin: 20px 0;
+    font-size: 15px;
+}
+.signin-container hr{
+    border: none;
+    height: 1px;
+    background-color: #d4d4d4;
+}
+.signin-container h4{
+    margin: 15px 0;
+    font-size: 13px;
+}
+.signin-business{
+    font-size: 13px;
+}
+.bottom{
+   width: 350px;
+   font-size: 13px;
+   color: #737373;
+   margin: 20px auto;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 6px;
+}
+.bottom hr{
+    border: none;
+    height: 1px;
+    background-color: #d4d4d4;  
+}
+.sign-in-up-btn{
+   width: 350px;
+   height: 30px;
+   font-size: 13px;
+   background-color: white;
+   border-radius: 5px;
+   border: 1px solid #c3c3c3; 
+}
+.sign-in-up-btn:hover{
+    background-color: #f1f1f1;
+}
+footer{
+    width: 100%;
+    height: auto;
+    height: 200px;
+    margin-top: 20px;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    background-color: linear-gradient(to bottom, #f4f4f4, #fff);
+    border: 2px solid #ededed;
+    font-size: 12px;
+}
+footer .links{
+    text-decoration: none;
+    justify-content: center;
+    display: flex;
+    gap: 30px;
+    margin-bottom: 20px; 
+}
+footer .links a{
+    text-decoration: none; 
+    color: #0066c0;
+}
+footer .links a:hover{
+    color: rgb(196, 97, 81);
+    text-decoration: underline;
+}
