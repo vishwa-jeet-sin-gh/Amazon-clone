@@ -22,3 +22,5 @@ JavaScript – Interactive elements like hover effects
 ![image alt](https://github.com/vishwa-jeet-sin-gh/Amazon-clone/blob/main/Screenshot%202025-02-18%20130607.png?raw=true)
 ![image alt](https://github.com/vishwa-jeet-sin-gh/Amazon-clone/blob/main/Screenshot%202025-02-18%20130652.png?raw=true)
 ![image alt](https://github.com/vishwa-jeet-sin-gh/Amazon-clone/blob/main/Screenshot%202025-02-18%20130737.png?raw=true)
+
+📬 Connect With Me 💼 LinkedIn: www.linkedin.com/in/vishwajeet-singh-006413258
