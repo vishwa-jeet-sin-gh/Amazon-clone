@@ -16,4 +16,5 @@ HTML – Structuring the webpage
 CSS – Styling and responsiveness
 JavaScript – Interactive elements like hover effects
 
-
+📸 Screenshots
+https://github.com/vishwa-jeet-sin-gh/Amazon-clone/blob/main/Screenshot%202025-02-18%20130202.png?raw=true
