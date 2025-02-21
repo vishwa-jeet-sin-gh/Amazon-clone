@@ -21,3 +21,4 @@ https://github.com/vishwa-jeet-sin-gh/Amazon-clone/blob/main/Screenshot%202025-0
 https://github.com/vishwa-jeet-sin-gh/Amazon-clone/blob/6bd3a4aedfad4935c533170b35062c0526388c0e/Screenshot%202025-02-18%20130526.png
 https://github.com/vishwa-jeet-sin-gh/Amazon-clone/blob/main/Screenshot%202025-02-18%20130607.png?raw=true
 https://github.com/vishwa-jeet-sin-gh/Amazon-clone/blob/main/Screenshot%202025-02-18%20130652.png?raw=true
+https://github.com/vishwa-jeet-sin-gh/Amazon-clone/blob/main/Screenshot%202025-02-18%20130737.png?raw=true
