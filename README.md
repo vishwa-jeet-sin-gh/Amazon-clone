@@ -1,2 +1,19 @@
-# Amazon-clone
-This project is a clone of the Amazon e-commerce website, developed using HTML, CSS, and JavaScript. It replicates the essential features and design of Amazon, providing a seamless user experience similar to the original platform.
+📜 Amazon Clone - README
+🚀 Amazon Clone – A Fully Responsive Frontend Webpage
+
+📌 Description
+This project is a frontend clone of the Amazon India homepage, built using HTML, CSS, and JavaScript. It accurately replicates the layout, design, and responsiveness of the original website, providing a real-world experience in frontend web development.
+
+🔹 Features
+✔️ Modern UI – Replicates Amazon's sleek and structured homepage
+✔️ Responsive Design – Adapts to different screen sizes for a seamless experience
+✔️ Navigation Bar – Includes search, category options, and user account section
+✔️ Product Sections – Various product categories displayed in grid & carousel format
+✔️ Footer Section – Styled similar to Amazon with useful links
+
+🛠️ Technologies Used
+HTML – Structuring the webpage
+CSS – Styling and responsiveness
+JavaScript – Interactive elements like hover effects
+
+
